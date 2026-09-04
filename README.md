@@ -7,7 +7,7 @@ I enjoy working on problems that sit between systems — connecting platforms, s
 ## What I work with
 
 - **Frontend:** JavaScript, TypeScript, React, Angular, Next.js
-- **Backend & APIs:** Python, FastAPI, REST APIs, SQLAlchemy
+- **Backend & APIs:** Node.js, Express, REST APIs, SQLite, Python/FastAPI experience
 - **Developer tooling:** Git, GitHub, GitLab, Docker, CLI tools
 - **Engineering practices:** TDD, automated testing, integration design, API-driven workflows
 - **Currently exploring:** MCP, AI-assisted development, workflow automation, accessibility tooling
@@ -17,7 +17,7 @@ I enjoy working on problems that sit between systems — connecting platforms, s
 ### [Rally ↔ GitLab Bridge](https://github.com/anandhan-naveen/rally-gitlab-bridge)
 Selective migration and controlled synchronization of Agile work items between Broadcom Rally and GitLab.
 
-Built with **Python, FastAPI, SQLAlchemy, GitLab APIs, Rally WSAPI, Docker, Typer and pytest**. The project includes selective import by quarter, feature or story, durable Rally↔GitLab mappings, dry-run support, a local dashboard, and a browser-SSO snapshot mode designed for environments where API keys are not available.
+Built with **Node.js, modern JavaScript, Express, SQLite, GitLab APIs, Rally WSAPI, Docker and Node's test runner**. The project includes selective import by quarter, feature or story, durable Rally↔GitLab mappings, dry-run support, a local dashboard, and a browser-SSO snapshot mode designed for environments where API keys are not available.
 
 ### [MCP Accessibility Server](https://github.com/anandhan-naveen/mcp-server)
 An MCP-based developer tool for automated accessibility analysis using browser automation.
