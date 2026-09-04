@@ -14,20 +14,20 @@ I enjoy working on problems that sit between systems — connecting platforms, s
 
 ## Featured projects
 
-### [Rally ↔ GitLab Bridge](https://github.com/naveen5765/rally-gitlab-bridge)
+### [Rally ↔ GitLab Bridge](https://github.com/anandhan-naveen/rally-gitlab-bridge)
 Selective migration and controlled synchronization of Agile work items between Broadcom Rally and GitLab.
 
 Built with **Python, FastAPI, SQLAlchemy, GitLab APIs, Rally WSAPI, Docker, Typer and pytest**. The project includes selective import by quarter, feature or story, durable Rally↔GitLab mappings, dry-run support, a local dashboard, and a browser-SSO snapshot mode designed for environments where API keys are not available.
 
-### [MCP Accessibility Server](https://github.com/naveen5765/mcp-server)
+### [MCP Accessibility Server](https://github.com/anandhan-naveen/mcp-server)
 An MCP-based developer tool for automated accessibility analysis using browser automation.
 
 Built around **Node.js, MCP and Playwright**, with the goal of making accessibility checks easier to integrate into AI-assisted developer workflows.
 
-### [React TDD Learning](https://github.com/naveen5765/react-tdd-learning)
+### [React TDD Learning](https://github.com/anandhan-naveen/react-tdd-learning)
 Hands-on React project focused on test-driven development and frontend engineering practices.
 
-### [iOS Assignment](https://github.com/naveen5765/iosE1Assignment)
+### [iOS Assignment](https://github.com/anandhan-naveen/iosE1Assignment)
 A native iOS project demonstrating mobile application development and Swift/iOS fundamentals.
 
 ## Engineering interests
