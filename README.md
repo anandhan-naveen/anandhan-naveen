@@ -24,6 +24,11 @@ An MCP-based developer tool for automated accessibility analysis using browser a
 
 Built around **Node.js, MCP and Playwright**, with the goal of making accessibility checks easier to integrate into AI-assisted developer workflows.
 
+### [PlayBalance (iOS)](https://github.com/anandhan-naveen/playbalance)
+A native iOS app that tracks gaming time against focus/study time, syncing Steam, Chess.com and OpenDota automatically, detecting iPhone game sessions via Shortcuts automations, and visualizing a rolling 14-day gaming vs. focus balance.
+
+Built with **SwiftUI, Swift concurrency (async/await), App Intents/Shortcuts automation, Keychain-backed credential storage, and REST integrations with the Steam, Chess.com and OpenDota APIs**.
+
 ### [React TDD Learning](https://github.com/anandhan-naveen/react-tdd-learning)
 Hands-on React project focused on test-driven development and frontend engineering practices.
 
