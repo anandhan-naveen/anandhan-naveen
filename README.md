@@ -29,12 +29,6 @@ A native iOS app that tracks gaming time against focus/study time, syncing Steam
 
 Built with **SwiftUI, Swift concurrency (async/await), App Intents/Shortcuts automation, Keychain-backed credential storage, and REST integrations with the Steam, Chess.com and OpenDota APIs**.
 
-### [React TDD Learning](https://github.com/anandhan-naveen/react-tdd-learning)
-Hands-on React project focused on test-driven development and frontend engineering practices.
-
-### [iOS Assignment](https://github.com/anandhan-naveen/iosE1Assignment)
-A native iOS project demonstrating mobile application development and Swift/iOS fundamentals.
-
 ## Engineering interests
 
 I'm particularly interested in:
